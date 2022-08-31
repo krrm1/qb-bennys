@@ -1,4 +1,4 @@
-# arabcodingteam-bennys
+# qb-bennys
 qb-core benny shop
 
 you can refuel nitrous with money 
